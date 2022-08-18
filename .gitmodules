@@ -1,0 +1,3 @@
+[submodule "submodule_test_sub"]
+	path = submodule_test_sub
+	url = https://github.com/pqbmeng/submodule_test_sub.git
